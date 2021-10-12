@@ -1,0 +1,10 @@
+Library
+.vs
+.vsconfig
+Temp
+Builds
+Logs
+obj
+.DS_Store
+
+Assembly-CSharp.csproj
